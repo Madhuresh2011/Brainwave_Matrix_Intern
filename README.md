@@ -10,10 +10,10 @@
 - Improve decision-making for stock replenishment, promotions, and pricing strategies.
 
 ## 2. Tools & Technologies
-Python Libraries:
-pandas (Data manipulation)
-numpy (Numerical computations)
-matplotlib & seaborn (Data visualization)
+### Python Libraries:
+- pandas (Data manipulation)
+- numpy (Numerical computations)
+- matplotlib & seaborn (Data visualization)
 
 
 ## 3. Key Analysis
