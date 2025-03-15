@@ -1,5 +1,7 @@
 # Brainwave-Matrix-Solutions-Intern
 
+# FOR TASK 1
+
 - commercial Store Data Analysis Project Using Python
 - This project involves analyzing data from a commercial store to gain insights into sales trends, customer behavior, and inventory management. Below is a detailed 
   breakdown:
